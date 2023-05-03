@@ -1,4 +1,4 @@
-.body{
+.header{
     background-color: #b73333;
     padding: 0px;
     margin: 0px;
@@ -6,4 +6,3 @@
     display: flex;
     align-items: center;
 }
-
